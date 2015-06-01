@@ -1,7 +1,8 @@
 # Fiat-Shamir
 
-*Fiat-Shamir-Algorithmus Implentierung in C#
-*Fiat-Shamir implementation in C#
+* Fiat-Shamir-Algorithmus Implentierung in C#
+
+* Fiat-Shamir implementation in C#
 
 
 
