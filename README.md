@@ -6,7 +6,7 @@
 
 
 
-#Schlüsselerzeugungsphase:
+## Schlüsselerzeugungsphase:
 
 
-#Anwendungsphase(wird x-mal wiederholt):
+## Anwendungsphase(wird x-mal wiederholt):
