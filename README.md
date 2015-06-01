@@ -13,7 +13,10 @@
 
 
 * Alice wählt s (s<n und ggt(s,n)=1) und bildet v = s^2 mod n
-* v : öffentlich, s : individuelle Geheimnis von Alice
+* v : öffentlich
+* s : Geheimnis von Alice
 
 ## Anwendungsphase(wird x-mal wiederholt):
-Alice wählt zufällig r (r<n und ggt(r,n)=1) und bildet x = r^2 mod n
+* Alice wählt zufällig r (r<n und ggt(r,n)=1) und bildet x = r^2 mod n
+* x : öffentlich
+* r : Geheimnis von Alice für diese Runde
